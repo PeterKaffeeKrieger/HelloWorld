@@ -3,7 +3,7 @@ public class Hello{
 		for(int i=1; i<=10; i++){
 			System.out.println("Hello World ..." +i);
 			System.out.println("Hello Changes ..." +i);
-			System.out.println("Add GitHub Trigger ..." +i);
+			System.out.println("Add2 GitHub Trigger ..." +i);
 		}
 	}
 }
